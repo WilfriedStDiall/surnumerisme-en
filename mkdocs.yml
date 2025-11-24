@@ -1,23 +1,29 @@
-site_name: Surnumerism
+site_name: SURNUMERISM
+site_url: https://surnumerisme.com
 theme:
   name: material
-  palette:
-    primary: green
-    accent: orange
-  language: fr
+  language: en
+  favicon: favicon.png   # <-- ajout du favicon
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - search.highlight
+    - search.suggest
 
 nav:
-  - Welcome : index.md
-  - Summary: sommaire.md
-  - Introduction: Introduction.md
-  - Chapter 1 : chapitre1.md
-  - Chapter 2 : chapitre2.md
-  - Chapter 3 : chapitre3.md
-  - Chapter 4 : chapitre4.md
-  - Chapter 5 : chapitre5.md
-  - Chapter 6 : chapitre6.md
-  - Chapter 7 : chapitre7.md
-  - Chapter 8 : chapitre8.md
-  - Chapter 9 : chapitre9.md
-  - Chapter 10 : chapitre10.md
-  - Chapter 11 : chapitre11.m
+  - Home: index.md
+  - Chapters:
+      - Chapter 1: chapters/chapter1.md
+      - Chapter 2: chapters/chapter2.md
+      - Chapter 3: chapters/chapter3.md
+  - About: about.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
