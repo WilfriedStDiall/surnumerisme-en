@@ -1,0 +1,8 @@
+/* Augmenter la taille de police et la largeur */
+.md-typeset {
+  font-size: 1.1rem;   /* augmente légèrement la taille */
+}
+
+.md-content {
+  max-width: 900px;    /* élargit la zone de contenu */
+}
