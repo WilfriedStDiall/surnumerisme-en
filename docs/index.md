@@ -1,35 +1,33 @@
-# Accueil
+# Home
 
-Bienvenue dans SURNUMERISME, un livre open-source sur une économie TRAVAILLISTE.
+Welcome to SURNUMERISM, an open-source book on a LABOR-BASED economy.
 
-Le Surnumérisme met en avant ce que l’homme à de plus précieux :
-L’homme est un acteur actif par rapport à son environnement. Il travaille.
-Les autres subissent leur environnement et s’y adaptent. 
-L’homme agit, sur ce dernier, le transforme par sa science et son effort.
+Surnumerism highlights what is most precious in man:  
+Man is an active actor in relation to his environment. He works.  
+Others endure their environment and adapt to it.  
+Man acts upon it, transforms it through his science and his effort.
 
-La différence entre l’homme et l’animal n’est pas seulement la réflexion mais sont
-usufruit: le TRAVAIL. Posséder importe peu. Produire, Reproduire pûis Innover est
-l’essentiel. C’est le travail qui valorise et il doit le critère déterminant entre les hommes.
-le travail doit être recherché, valorisé et rémunéré.
+The difference between man and animal is not only reflection but its usufruct: WORK.  
+Possession matters little. To Produce, Reproduce, then Innovate is essential.  
+It is work that gives value, and it must be the determining criterion among men.  
+Work must be sought, valued, and remunerated.
 
-LE FILS DE L’HOMME EST IL PRET A PARTAGER LE TRAVAIL ET NON A FAIRE SEULEMENT TRAVAILLER.
-Au temps ancien existait l’ESCLAVAGE.  De nos jours le Salaire est une EXPLOITATION de
-l’homme par son semblable.
+IS THE SON OF MAN READY TO SHARE WORK AND NOT JUST TO MAKE OTHERS WORK?  
+In ancient times there was SLAVERY. Today, the Salary is an EXPLOITATION of man by his fellow man.
 
-Nous mettons au défis le premier des hommes et la première des nations dites civilisées
-à se mettre au-dessus de la multitude encore asservie par une mentalité médiévale.
+We challenge the first of men and the first of so-called civilized nations  
+to rise above the multitude still enslaved by a medieval mentality.
 
-Le SURNUMERISME est comme que le proverbe qui magistralement nous exhorte à apprendre
-pêcher plutôt que de donner du poisson aux nécessiteux.
-Nulle vérité nouvelle ne poindra du Surnumérisme mais il est temps que l’HOMME s’assagisse 
-et qu'il sache que son meilleur allié n’est autre que l’HUMAIN en lui-même. 
-Aucune entité, aucune machine et aucune richesse ne peut autant que l'homme lui-meme l'assister
-dans son cheminement vers un developpement plein, équilibré et partagé.
+SURNUMERISM is like the proverb that masterfully exhorts us to learn  
+to fish rather than to give fish to the needy.  
+No new truth will spring from Surnumerism, but it is time for MAN to become wiser  
+and to know that his best ally is none other than the HUMAN within himself.  
+No entity, no machine, and no wealth can assist him as much as man himself  
+in his journey toward full, balanced, and shared development.
 
-WILFRIED ST DIAL est un pseudonyme qui reflète la date (12 Octobre 1492) de la découverte du
-Nouveau Monde: Un symbole pour une quete nouvelle à travers le MONDE. Cette date est aussi
-l'anniversaire de l'auteur. Son nom est une évocation anglaise du cadran de l'humanité et
-un énoncé de son patronyme.  
+WILFRIED ST DIAL is a pseudonym that reflects the date (October 12, 1492) of the discovery of the New World:  
+A symbol for a new quest across the WORLD. This date is also the author’s birthday.  
+His name is an English evocation of humanity’s dial and a statement of his patronym.
 
-CECI EST UNE CONTRIBUTION PERFECTIBLE A L'HUMANITE. 
-C'EST UN APPEL A SA MISE EN ROUTE INTELLECTUELLE ET POLITIQUE.
+THIS IS A PERFECTIBLE CONTRIBUTION TO HUMANITY.  
+IT IS A CALL FOR ITS INTELLECTUAL AND POLITICAL AWAKENING.
