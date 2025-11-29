@@ -1,8 +1,59 @@
-/* Augmenter la taille de police et la largeur */
-.md-typeset {
-  font-size: 1.1rem;   /* augmente légèrement la taille */
+/*/* ====== Contraste élevé vert & blanc ====== */
+
+/* Taille de police globale plus grande */
+:root {
+  --md-text-font-size: 18px;   /* par défaut ~14px */
 }
 
+/* Texte lisible et espacé */
+.md-typeset {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: #111;                 /* texte principal en noir/gris foncé */
+}
+
+/* Zone de contenu élargie */
 .md-content {
-  max-width: 900px;    /* élargit la zone de contenu */
+  max-width: 1100px;
+}
+
+/* Titres en vert vif */
+.md-typeset h1, 
+.md-typeset h2, 
+.md-typeset h3 {
+  color: #2e7d32;              /* vert foncé */
+  font-weight: bold;
+}
+
+/* Liens en vert avec survol contrasté */
+.md-typeset a {
+  color: #2e7d32;
+  font-weight: 600;
+}
+.md-typeset a:hover {
+  color: #1b5e20;              /* vert encore plus foncé au survol */
+  text-decoration: underline;
+}
+
+/* Boutons verts avec texte blanc */
+.md-button {
+  background-color: #2e7d32;
+  color: #fff;
+  font-weight: bold;
+}
+.md-button:hover {
+  background-color: #1b5e20;
+}
+
+/* Navigation et en-têtes en vert */
+.md-header, 
+.md-nav {
+  background-color: #2e7d32;
+  color: #fff;
+}
+
+/* Contraste pour le footer */
+.md-footer {
+  background-color: #1b5e20;
+  color: #fff;
 }
